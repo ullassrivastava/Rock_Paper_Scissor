@@ -11,6 +11,10 @@ Choose between the rock, paper and scissor while anticipating the move of the co
 
 ## Screenshots
 Screenshot 1:
-![alt text](/screenshot1.PNG)<br/><br/>
+![alt text](/Screenshot1.PNG)<br/><br/>
 Screenshot 2:
-![alt text](/screenshot2.PNG)<br/><br/>
+![alt text](/Screenshot2.PNG)<br/><br/>
+Screenshot 3:
+![alt text](/Screenshot3.PNG)<br/><br/>
+Screenshot 4:
+![alt text](/Screenshot4.PNG)<br/><br/>
